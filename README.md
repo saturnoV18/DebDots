@@ -1,10 +1,10 @@
 # DebDots
 Dotfiles for debian 12 with bspwm
-##Clone git repository
+## Clone git repository
 ```
 git clone https://github.com/saturnoV18/DebDots.git
 ```
-#Info
+# Info
 - System: Debian 12
 - Terminal: kitty
 - Browser: firefox-esr
