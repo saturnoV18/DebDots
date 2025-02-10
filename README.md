@@ -30,3 +30,9 @@ chmod 755 ~/.config/bspwm/bspwmrc
 - Powermenu: wlogout
 - Screenshot: flameshot
 - Notifications demon: dunst
+## Dependences
+### Fonts
+- JetBrains Mono: jetbrains-mono-fonts
+- Font Awesome 6 Free: fontawesome-6-free-fonts
+- Material Design Icons Desktop: MaterialDesignIconsDesktop
+- MesloLGS NF: MesloLGS NF Regular
