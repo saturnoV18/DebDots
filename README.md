@@ -4,6 +4,19 @@ Dotfiles for debian 12 with bspwm
 ```
 git clone https://github.com/saturnoV18/DebDots.git
 ```
+## Installing themes
+First enter the directory
+```
+cd DebDots
+```
+Then move all the files into your user config folder
+```
+mv ./* ~/.config/
+```
+Make the bspwmrc file executable
+```
+chmod 755 ~/.config/bspwm/bspwmrc
+```
 # Info
 - System: Debian 12
 - Terminal: kitty
