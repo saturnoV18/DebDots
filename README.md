@@ -16,3 +16,4 @@ git clone https://github.com/saturnoV18/DebDots.git
 - Compositor: picom
 - Powermenu: wlogout
 - Screenshot: flameshot
+- Notifications demon: dunst
